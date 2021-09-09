@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/Administracion/app.js": "/js/Administracion/app.js",
+    "/js/Documentos/app.js": "/js/Documentos/app.js",
+    "/js/Indicadores/app.js": "/js/Indicadores/app.js",
+    "/js/Riesgos/app.js": "/js/Riesgos/app.js",
+    "/js/Planes/app.js": "/js/Planes/app.js",
+    "/js/Mejoras/app.js": "/js/Mejoras/app.js",
+    "/js/BSC/app.js": "/js/BSC/app.js"
+}
